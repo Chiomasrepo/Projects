@@ -1,6 +1,5 @@
-# Indepth Analysis of Colonial Pipeline Cyberattack
+# In-depth Analysis of Colonial Pipeline Cyberattack
 
-## In-depth Analysis of the Colonial Pipeline Ransomware Attack
 The President of the USA, Joe Biden declared a state of emergency in May 2021 as a result of the colonial pipeline ransomware attack that occurred on the 7th of May 2021 which was the largest cyberattack on an oil infrastructure in the history of the United States as at the time of occurrence.  
 The colonial pipeline which controls nearly fifty percent of the gasoline, jet fuel and diesel had to shut down their 5,500-mile pipeline delivering fuel from Gulf coast refineries to major East coast markets due to a ransomware attack.  It did so out of concern that the malware that had infected its back-office functions could make it difficult to bill for fuel delivered along the pipeline or even spread into the pipeline’s operating system. The attackers exfiltrated 100 gigabytes of data within a two-hour window and thereafter infected the Colonial Pipeline IT network with ransomware. A ransom of 75bitcoin was paid to receive the keys to decrypt the data, however, the Department of Justice recovered 63.7bitcoin from the attackers.
 Cybersecurity experts also noted that Colonial Pipeline would never have had to shut down its pipeline if it had more confidence in the separation between its business network and pipeline operations. 
