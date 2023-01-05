@@ -1,1 +1,1 @@
-The ripple effect of one leaked credential- using the Colonial Pipeline Ransomware attck as a case study
+The ripple effect of one leaked credential on the nation- using the Colonial Pipeline Ransomware attack as a case study
