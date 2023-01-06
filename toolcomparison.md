@@ -36,11 +36,9 @@ Metasploit is a free and open-source exploitation framework that has the capabil
 - Phase 5: Post Exploitation
 This phase involves activities performed once an initial foothold is gained on the network. It ranges from lateral movement/pivoting, privilege escalation, data exfiltration and maintaining access.  Several tools can be used in this phase, some of them include Metasploit, Empire, Covenant, Cobalt Strike.
 1. Empire- https://github.com/BC-SECURITY/Empire/blob/main/README.md
-Empire is a Powershell post exploitation tool that can be used to create a script, make connection from the target machine and extract password hashes with Mimikatz. The original project is no longer maintained but a fork was created and can be found in this above link.
- 
+Empire is a Powershell post exploitation tool that can be used to create a script, make connection from the target machine and extract password hashes with Mimikatz. The original project is no longer maintained but a fork was created and can be found in the above link.
 2. Covenant- https://github.com/cobbr/Covenant
 Covenant is an open-source tool, it is a command-and-control framework that uses the .NET framework to achieve similar results as Empire. It includes a web-based interface that allows multi-user collaboration.
-
 3. Cobalt Strike- https://www.cobaltstrike.com/
 This is a commercial adversary simulation tool focusing on post exploitation and covert channels to emulate a quiet long-term embedded actor in a network.
 
