@@ -1,2 +1,2 @@
 - [Indepth Analysis of Colonial Pipeline Cyberattack](colonial.md)
-- [Tool Comparison Technical Guide](toolcomparison.md)
+- [Penetration Testing Tools Comparison- A Technical Guide](toolcomparison.md)
