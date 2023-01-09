@@ -1,4 +1,4 @@
-## Tool Comparison Technical Guide
+## Penetration Testing Tools Comparison- A Technical Guide
 
 There is a vast number of tools used in cybersecurity and it is almost impossible to keep up with all of them. 
 This guide is a comparison of some penetration testing tools used across the industry. There are laws that govern the possession and use of these tools. It is always recommended to abide by the law within your region.
